@@ -245,7 +245,7 @@ flipped_horizontally
 
 ## OUTPUT
 ### Original Image
-<img width="620" height="481" alt="image" src="https://github.com/user-attachments/assets/2a7a1c7b-c8a6-4a43-b905-2b045ed331d3" />
+<img width="725" height="530" alt="image" src="https://github.com/user-attachments/assets/13c8b882-4880-45c7-a8b3-422943fc4877" />
 
 
 ### Image with Line
